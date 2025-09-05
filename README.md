@@ -1,2 +1,3 @@
 # producer-consumer
-## O problema produtor-consumidor também é conhecido como problema do buffer limitado. Neste problema, temos dois processos, produtor e consumidor, que compartilham um buffer de tamanho fixo. O trabalho do produtor é produzir dados ou itens e colocá-los no buffer. O trabalho do consumidor é remover dados do buffer e consumi-los. Precisamos garantir que o produtor não produza dados quando o buffer estiver cheio e o consumidor não remova dados quando o buffer estiver vazio.
+
+O problema produtor-consumidor também é conhecido como problema do buffer limitado. Neste problema, temos dois processos, produtor e consumidor, que compartilham um buffer de tamanho fixo. O trabalho do produtor é produzir dados ou itens e colocá-los no buffer. O trabalho do consumidor é remover dados do buffer e consumi-los. Precisamos garantir que o produtor não produza dados quando o buffer estiver cheio e o consumidor não remova dados quando o buffer estiver vazio.
